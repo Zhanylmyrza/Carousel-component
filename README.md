@@ -1,3 +1,3 @@
 # Carousel-component
 
- ![Screenshot](/Carousel-component/myversion/pr.png)
+ ![Screenshot](/myversion/pr.png)
